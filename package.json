@@ -1,0 +1,12 @@
+{
+  "name": "mahalaxmi-agro-industries",
+  "version": "1.0.0",
+  "description": "Mahalaxmi Agro Industries — wholesale rice site with backend quote requests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
